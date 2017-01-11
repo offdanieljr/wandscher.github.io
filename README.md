@@ -1,1 +1,1 @@
-# https://www.wandscher.github.io
+# https://wandscher.github.io
